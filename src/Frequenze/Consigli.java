@@ -10,8 +10,8 @@ public class Consigli
 {
     //String = utente;
 
-    HashMap<String, Set<String>> utenti;
-    Set<String> acquisti;
+    public HashMap<String, Set<String>> utenti;
+    public Set<String> acquisti;
 
     public Consigli(){
         utenti = new HashMap<>();
