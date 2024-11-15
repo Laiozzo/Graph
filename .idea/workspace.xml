@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5782a31b-bcd8-4c91-9bf6-f94b052716a2" name="Changes" comment="Sviluppo di Consigli&#10;6.0">
-      <change afterPath="$PROJECT_DIR$/src/Demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frequenze/ConsigliV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Frequenze/Ez5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frequenze/Consigli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frequenze/Consigli.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Alghorithms/algs4.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nicol/IdeaProjects/Graph/src/Frequenze&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +68,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nicol\IdeaProjects\Graph\src\Frequenze" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.Main" />
@@ -128,7 +131,13 @@
       <workItem from="1731334594482" duration="4960000" />
       <workItem from="1731360828972" duration="411000" />
       <workItem from="1731401883938" duration="5130000" />
-      <workItem from="1731416952631" duration="2970000" />
+      <workItem from="1731416952631" duration="3254000" />
+      <workItem from="1731423230065" duration="830000" />
+      <workItem from="1731492729030" duration="853000" />
+      <workItem from="1731512539092" duration="46000" />
+      <workItem from="1731514221785" duration="2920000" />
+      <workItem from="1731521422511" duration="848000" />
+      <workItem from="1731529300528" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="Frequenze_funziona">
       <option name="closed" value="true" />
@@ -170,14 +179,42 @@
       <option name="project" value="LOCAL" />
       <updated>1731418785830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sviluppo di Consigli&#10;6.0">
+      <option name="closed" value="true" />
+      <created>1731422308137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731422308137</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sviluppo di Consigli&#10;6.0">
+      <option name="closed" value="true" />
+      <created>1731422347355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731422347355</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Frequenze_funziona" />
+    <MESSAGE value="Sviluppo di Consigli&#10;6.0&#10;&#10;Set&lt;&gt; In automatico non legge i valori doppi, idiota." />
     <MESSAGE value="Sviluppo di Consigli&#10;6.0" />
     <option name="LAST_COMMIT_MESSAGE" value="Sviluppo di Consigli&#10;6.0" />
   </component>
